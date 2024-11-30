@@ -15,6 +15,7 @@ Do you have supplementary materials (such as media files) or links for further i
 # Supplementary Websites
 
 Place your links here to websites that have information about your topic.
+https://study.com/learn/lesson/video/us-in-world-war-2.html 
 
 # Supplementary Media Files
 
