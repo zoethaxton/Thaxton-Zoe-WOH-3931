@@ -3,20 +3,22 @@ layout: default
 title: Introduction
 number: 1
 ---
-# Introduction
+# Introduction (Zoe)
 
-This is where you introduce your project to your audience. You should summarize briefly the topic you are working on. (250-350 words)
+The United States did not intend to go to war—or at least fight during the Second World War at first. It was another European problem, another issue many Americans didn’t want to involve themselves in once again. They just fought in the First World War and attempted to help clean Europe’s mess – at least, President Woodrow Wilson wanted the United States as involved as possible as seen with his 12 points. Yet, even immediately after, most of the country wanted to go back to its original policy of isolationism, but it did establish the Dawes Plan to help funnel money throughout wartorn Europe. The Great Depression stopped any action the U.S. was taking and further allowed them to shrink back into its isolationist ways across the ocean. 
 
-The following is sample text to show the capabilities of presenting text with various formatting (such as bold), different languages, adding footnotes, and images.[^1]
+World War II erupted in Europe in 1939 and the U.S. remained officially neutral. Their hesitation stemmed from still recovering from the Great Depression and prioritizing isolationism to keep from being drawn into another conflict barely 20 years after the end of the first war. The United States declared numerous neutrality acts throughout the 1930s - each one becoming more lenient with "neutrality" as tensions worsened. 
+
+Congress passed the Neutrality Act of 1939. This act allowed belligerents to buy non-military goods immediately in cash and use their own ships for transports [^1], which was a victory for the non-isolationists. Even still, as the war continued on, the United States leaned heavily in favor with its allies. At first, it started by giving destroyers in exchange for bases with Great Britain in 1940, and a year later, President Franklin D. Roosevelt declared the navy to attack German and Italian war vessels in “the waters which we deem necessary for our defense” [^2]. Of course, the U.S. also played a a crucial role through the Lend-Lease Act, passed in March 1941. With this, the U.S. would provide any essential military supplies and funds to Great Britain, the Soviet Union, and other Allied nations in need. 
+
+It was starting to be clear the U.S. might not remain neutral for long.
+
+The moment the United States was attacked, President Roosevelt stood before Congress and urged Congress to declare war on Japan. On December 8, 1941, war on the Pacific theater began. Not even three days later, Germany declared war on the United States, properly drawing the United States in on the other fronts. 
+Once again, the United States was at war.
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'FDRCongressSpeech'" %}
 {% include media.html pages=media %}
 
 
-Voilà! Вуаля! שלום עולם! Ça va?
-Ut scelerisque ultrices orci, nec egestas sem. Cras feugiat nulla eget efficitur tempus. Morbi at pulvinar odio. Duis tempus neque in efficitur iaculis. Nullam ornare erat ut elit convallis consectetur. Integer a pulvinar dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi semper mattis odio ac volutpat. Suspendisse placerat rhoncus ligula, in pretium turpis aliquam nec. Curabitur gravida pretium mauris, in vulputate mauris tristique in. Suspendisse id facilisis sem, et dapibus tortor. Sed nisl metus, commodo ornare tortor non, aliquam suscipit arcu.[^2]
-
-Curabitur sed feugiat elit. Donec feugiat nisi volutpat magna venenatis volutpat. Fusce efficitur sapien dignissim, pretium dolor sit amet, placerat lectus. Quisque enim est, viverra ut sem id, eleifend imperdiet ipsum. Pellentesque imperdiet pretium dui, eu sodales quam iaculis id. Fusce tristique convallis hendrerit. Suspendisse id mauris est. Etiam accumsan nisl vel neque porttitor, nec finibus est vehicula. Aliquam quam sem, rutrum elementum tincidunt non, ultricies a urna. Sed commodo, magna sed dictum malesuada, nulla ligula efficitur nisl, sed condimentum mauris nisl non purus. Sed pulvinar maximus fringilla. Sed scelerisque imperdiet volutpat. Praesent ligula nisl, venenatis finibus pharetra at, luctus id neque. Proin a efficitur ex. Donec vitae enim quis arcu ullamcorper molestie.
-
-[^1]: First example footnote. View other pages to see sample methods of working with Markdown.
-[^2]: I copied this text from this [website](https://www.lipsum.com/feed/html) 
+[^1]: Goodwin, Christopher, Lecture
+[^2]: Goodwin, Christopher, Lecture 
