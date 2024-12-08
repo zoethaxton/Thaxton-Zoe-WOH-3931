@@ -4,18 +4,18 @@ title: Analysis
 number: 2
 ---
 
-# Analysis 1 - North Africa and the Mediterranean Theatre
+# Analysis 1 - North Africa and the Mediterranean Theatre (Nick)
 
 Now analyze your historical subject. (1000 words). You can include images, videos and PDFs that pertain to your subject using the examples below. To add more, simply copy, paste, and change the title of your item to correspond with your media file.
 
-# Analysis 2 - European Theatre
+# Analysis 2 - European Theatre (Suzanne)
 
 Start
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'PrussianInfantryHohenfriedberg'" %}
 {% include media.html pages=media %}
 
-# Analysis 3 - The Pacific Theatre
+# Analysis 3 - The Pacific Theatre (Victoria)
 
 Start
 
