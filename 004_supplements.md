@@ -13,6 +13,8 @@ number: 4
 
 https://study.com/learn/lesson/video/us-in-world-war-2.html 
 
+https://www.defense.gov/News/Feature-Stories/story/article/2293108/
+
 # Supplementary Media Files (Zoe)
 
 Insert videos or images here.
