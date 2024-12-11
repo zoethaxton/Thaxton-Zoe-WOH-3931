@@ -64,34 +64,31 @@ The Battle of Midway, taking place June 4th to June 7th of the following year, m
 
 On August 7, 1942, the United States launched the Battle of Guadalcanal as they did not want to lose their momentum from the battle of Midway. The United States launched a full scale attack to stop Japanese expansion after realizing that their construction on Guadalcanal threatened Allied supply routes. The six month long battle included intense jungle warfare, scarce supplies, and significant losses on both sides [^14]. As American air, land, and sea forces showed unparalleled coordination to seize control of the island, Guadalcanal became a test of the U.S. Marines' endurance [^15]. With this success, the Allies began an "island hopping" campaign, attacking islands in the Pacific instead of heavily fortified locations [^16]. By capturing Guadalcanal, the United States effectively altered the trajectory of the war by weakening Japan's position in the area. By strengthening American determination, this fight set the stage for Allied achievements that would eventually force Japan to retreat. 
 
-The Battle of Leyte Gulf, taking place from October 23 to October 26, 1943, was a major battle in weakening Japan’s naval power in the Pacific. The battle began when the United States launched submarines to attack Vice Admiral Takeo Kurita’s Center Force. The attack led to the sinking of Atago, a Japanese cruiser, which alerted American commanders to Japanese movements [^17]. On October 24, the U.S. launched carrier planes to strike the Center Force in the battle of the Sibuyan Sea, sinking  the Musashi battleship, ultimately forcing Kurita to retreat, even if it was temporary. Later, on that same day, the United States forces destroyed the Japanese Southern Force with  their “crossing the ‘T’” strategy in the Surigao Strait, marking this battle as the last one in naval history to have involved battleships. The next day, October 25, 1943, Vice Admiral Takeo Kurita launched Japan’s remaining ships to attack the unsuspecting, and therefore basically unarmed, U.S. Task Unit, “Taffy 3,” off the coast of Samar. Though they suffered major losses from this attack, America was able to force Japan to retreat, once again [^18]. At the same time, American Admiral William Halsey Jr. was pursuing the Japanese fleet, the Northern Force, which turned out to be a decoy, whilst the American fleet successfully destroyed Japanese aircraft carriers in the Battle off Cape Engaño. While Admiral William Halsey was focused primarily on the Northern Force, he left the San Bernardino Strait unprotected. Using the strait, the Japanese could reach Leyte Gulf, where American forces were landing. Fortunately, even though the opportunity to attack the U.S. forces in Leyte Gulf were present, Admiral Kurita decided to withdraw his forces due to the damages sustained in the battle [^19]. This success for the US was so impactful, it was even expressed by President Rooselvelt in a letter to General MacArther, Roosevelt praising him and thanking him on behalf of Americans [^20]. The Battle of Leyte Gulf was the catalyst in ending the Japanese Navy’s ability to run major operations and it introduced Japan’s kamikaze tactics. 
+The Battle of Leyte Gulf, taking place from October 23 to October 26, 1943, was a major battle in weakening Japan’s naval power in the Pacific. The battle began when the United States launched submarines to attack Vice Admiral Takeo Kurita’s Center Force. The attack led to the sinking of Atago, a Japanese cruiser, which alerted American commanders to Japanese movements [^17]. On October 24, the U.S. launched carrier planes to strike the Center Force in the battle of the Sibuyan Sea, sinking  the Musashi battleship, ultimately forcing Kurita to retreat, even if it was temporary. Later, on that same day, the United States forces destroyed the Japanese Southern Force with  their “crossing the ‘T’” strategy in the Surigao Strait, marking this battle as the last one in naval history to have involved battleships. The next day, October 25, 1943, Vice Admiral Takeo Kurita launched Japan’s remaining ships to attack the unsuspecting, and therefore basically unarmed, U.S. Task Unit, “Taffy 3,” off the coast of Samar. Though they suffered major losses from this attack, America was able to force Japan to retreat, once again [^18]. At the same time, American Admiral William Halsey Jr. was pursuing the Japanese fleet, the Northern Force, which turned out to be a decoy, whilst the American fleet successfully destroyed Japanese aircraft carriers in the Battle off Cape Engaño. While Admiral William Halsey was focused primarily on the Northern Force, he left the San Bernardino Strait unprotected. Using the strait, the Japanese could reach Leyte Gulf, where American forces were landing. Fortunately, even though the opportunity to attack the U.S. forces in Leyte Gulf were present, Admiral Kurita decided to withdraw his forces due to the damages sustained in the battle [^19]. This success for the US was so impactful, it was even expressed by President Rooselvelt in a letter to General MacArther, Roosevelt praising him and thanking him on behalf of Americans. The Battle of Leyte Gulf was the catalyst in ending the Japanese Navy’s ability to run major operations and it introduced Japan’s kamikaze tactics. 
 
-America’s island-hopping strategy, as it began after the Battle of Midway, played a major role in their victories in the Pacific in World War 2. The strategy aimed to capture significant islands in the pacific while also avoiding Japanese strongholds [^21]. This strategy encouraged the conservation of resources and the minimization of injuries and deaths by targeting islands that weren’t heavily fortified. Island-hopping reflected how adaptable and efficient the United States’ approach to the war was, balancing out objectives with immediate needs to hinder Japan’s military and its operations [^22]. The strategy proved especially successful in Guadalcanal and Okinawa, but overall was a catalyst in many American victories during World War 2. 
+America’s island-hopping strategy, as it began after the Battle of Midway, played a major role in their victories in the Pacific in World War 2. The strategy aimed to capture significant islands in the pacific while also avoiding Japanese strongholds [^20]. This strategy encouraged the conservation of resources and the minimization of injuries and deaths by targeting islands that weren’t heavily fortified. Island-hopping reflected how adaptable and efficient the United States’ approach to the war was, balancing out objectives with immediate needs to hinder Japan’s military and its operations [^21]. The strategy proved especially successful in Guadalcanal and Okinawa, but overall was a catalyst in many American victories during World War 2. 
 
-WORKS CITED HERE
-[^1]: World War II: The World at War
-[^2]: Afzal
-[^3]: Liberation Route Europe
-[^4]: Cole
-[^5]: World War II: The World at War
-[^6]: Cole
-[^7]: Holland
-[^8]: Reynolds, 2001
+
+
+
+[^1]: World War II: The World At War. Video/DVD, Media Rich Learning, 2019. Retrieved from https://video.alexanderstreet.com/watch/world-war-ii-the-world-at-war.
+[^2]: Afzal, Imran. "Factors for the Allies’ Success in Normandy Landings on the Western European Front during the Last Years of World War II."
+[^3]: “The Liberation of Paris.” Liberation Route Europe, www.liberationroute.com/stories/180/the-liberation-of-paris. Accessed 8 Dec. 2024.
+[^4]: Cole, Hugh Marshall. The Ardennes: Battle of the Bulge. Vol. 3, No. 7, Office of the Chief of Military History, Department of the Army, 1965.
+[^5]: World War II: The World At War. Video/DVD, Media Rich Learning, 2019. Retrieved from https://video.alexanderstreet.com/watch/world-war-ii-the-world-at-war.
+[^6]: Cole, Hugh Marshall. The Ardennes: Battle of the Bulge. Vol. 3, No. 7, Office of the Chief of Military History, Department of the Army, 1965.
+[^7]: Holland, James. The Allies Strike Back, 1941-1943: 1941-1943. Grove/Atlantic, Incorporated, 2018. ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/gatech/detail.action?docID=6119872.
+[^8]: Reynolds, David. From Munich to Pearl Harbor: Roosevelt’s America and the Origins of the Second World War. Ivan R. Dee, 2001.
 [^9]: Ibid.
 [^10]: Ibid.
-[^11]: Heinl, 1948
+[^11]: Heinl, Robert Debs. Marines at Midway. Historical Section, Division of Public Information, Headquarters, U.S. Marine Corps, 1948.
 [^12]: Ibid.
 [^13]: Ibid.
-[^14]: Anderson, 1993
+[^14]: Anderson, Charles R. Guadalcanal. U.S. Army Center of Military History, 1993.
 [^15]: Ibid.
 [^16]: Ibid.
-[^17]: (United States Naval Institute, 2009)
+[^17]: “Leyte Gulf: The Pacific War’s Greatest Battle.” Naval History, vol. 23, no. 5, United States Naval Institute, 2009, pp. 35.
 [^18]: Ibid.
 [^19]: Ibid.
-[^20]: Roosevelt, 1944
-[^21]: (Moon, 1988).
-[^22]: Ibid.
-
-# Linking to a PDF File
-
-[Download PDF file]({{ site.baseurl }}/media_files/pdfs/newspaper1942.pdf)
+[^20]: Moon, John Ellis van Courtland. Confines of Concept: American Strategy in World War II. Garland Pub., 1988.
+[^21]: Ibid.
