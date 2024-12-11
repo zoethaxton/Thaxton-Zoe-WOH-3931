@@ -22,3 +22,6 @@ https://www.defense.gov/News/Feature-Stories/story/article/2293108/
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'ThePacificWar'" %}
 {% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'WW2CrashCourse'" %}
+{% include media.html pages=media %}
