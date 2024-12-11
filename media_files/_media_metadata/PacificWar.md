@@ -1,8 +1,8 @@
 ---
-name: PacificWar
+name: ThePacificWar
 media_type: video
 
-_title: THE PACIFIC WAR - Japan versus the US Full Documentary
+_title: The Pacific War - Japan versus the US Full Documentary
 description: Japan vs US during WW2
 creator: WELT Documentary
 _date: 2021
