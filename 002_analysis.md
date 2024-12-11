@@ -31,6 +31,9 @@ Following the Normandy initiative, American forces executed a series of strategi
 
 Charles de Gaulle, leader of the Free French Forces, successfully persuaded General Eisenhower to intervene. On August 24, Leclerc's forces entered Paris from the south while Patton's men advanced through the southeast, creating an initial breakthrough in German defenses before pushing through the city. German Commander Choltitz, facing the possibility of being overtaken, ultimately dismissed Hitler's orders to destroy the city and chose to surrender in response to mounting Allied pressure (Liberation Route Europe).
 
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'FrenchLiberation'" %}
+{% include media.html pages=media %}
+
 Forces under General George S. Patton demonstrated tactical proficiency as they advanced eastward. This sustained momentum enabled Allied forces to systematically dismantle German control throughout France, creating the conditions necessary for the final German confrontation.
 
 On December 16, 1944, Germany launched a surprise counteroffensive in the Ardennes Forest, aiming to split the Allied lines and recapture the port of Antwerp. This operation, which would become known as the Battle of the Bulge, represented Germany's final attempt to repel the Allies and retake territory in Western Europe. The initial attack was launched through the densely forested Ardennes region of eastern Belgium and northeast France, but American forces at Elsenborn Ridge managed to stall German advances through their control of key travel routes (Cole).
