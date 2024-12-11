@@ -44,10 +44,6 @@ This advance facilitated the encirclement of German forces in the Ruhr Pocket, w
 
 By April 1945, American and Soviet forces met at the Elbe River, a historic junction that symbolized the effective partition of Germany and the impending fall of the Third Reich. This meeting of Allied forces from East and West marked the final chapter in the defeat of Nazi Germany, highlighting the crucial role that American military intervention had played in securing victory in Europe (Holland)
 
-
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PrussianInfantryHohenfriedberg'" %}
-{% include media.html pages=media %}
-
 # Analysis 3 - The Pacific Theatre (Victoria)
 
 On December 7, 1941, Japan attacked a U.S. naval base located in Pearl Harbor, Hawaii, ultimately redefining America’s role and involvement in World War II. Japan's ambition to spread throughout Southeast Asia was their justification for the attack, which aimed to destroy the U.S. Pacific Fleet in order to stop American interference (Reynolds, 2001). The results were devastating and deadly: eight battleships were hit, hundreds of aircraft were destroyed, and over two thousand Americans lost their lives. However, Japan’s mistakes overshadowed their victory. The United States was able to quickly recover from the attack because major repair facilities and aircraft carriers were absent during the attack (Reynolds, 2001). This battle destroyed any remaining isolationist views in the United States, pushing President Franklin D. Roosevelt to proclaim December 7 as "a date which will live in infamy" due to widespread outrage, strengthening American resolve to stand with the Allied Powers against the Axis (Reynolds, 2001). The  attack being a major turning point in the war, from an American perspective, the United States was inspired by this catastrophe, which paved the way for its active involvement in the Pacific theater.
@@ -60,8 +56,7 @@ The Battle of Leyte Gulf, taking place from October 23 to October 26, 1943, was 
 
 America’s island-hopping strategy, as it began after the Battle of Midway, played a major role in their victories in the Pacific in World War 2. The strategy aimed to capture significant islands in the pacific while also avoiding Japanese strongholds (Moon, 1988). This strategy encouraged the conservation of resources and the minimization of injuries and deaths by targeting islands that weren’t heavily fortified. Island-hopping reflected how adaptable and efficient the United States’ approach to the war was, balancing out objectives with immediate needs to hinder Japan’s military and its operations (Moon, 1988). The strategy proved especially successful in Guadalcanal and Okinawa, but overall was a catalyst in many American victories during World War 2. 
 
-{% assign media = site.media_metadata | where_exp: "item", "item.name == 'RiseOfPrussia'" %}
-{% include media.html pages=media %}
+WORKS CITED HERE
 
 # Linking to a PDF File
 
