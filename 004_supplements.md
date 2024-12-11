@@ -19,3 +19,6 @@ https://www.defense.gov/News/Feature-Stories/story/article/2293108/
 
 {% assign media = site.media_metadata | where_exp: "item", "item.name == 'DesertWarfareAfrica'" %}
 {% include media.html pages=media %}
+
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'PacificWar'" %}
+{% include media.html pages=media %}
