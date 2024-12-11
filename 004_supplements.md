@@ -17,4 +17,5 @@ https://www.defense.gov/News/Feature-Stories/story/article/2293108/
 
 # Supplementary Media Files (Zoe)
 
-Insert videos or images here.
+{% assign media = site.media_metadata | where_exp: "item", "item.name == 'DesertWarfareAfrica'" %}
+{% include media.html pages=media %}
